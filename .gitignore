@@ -1,0 +1,12 @@
+.prove/
+local/
+*.sw?
+perltidy.LOG
+perltidy.ERR
+.DS_Store
+.vagrant
+.bash_history
+.cpanm
+tools/init.log
+Crypto-Exchange-Kucoin-Spot-API-*
+src/cpanfile.snapshot
